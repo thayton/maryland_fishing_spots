@@ -6,3 +6,4 @@
 
 # Charters
 https://fishingbooker.com/charters/view/8403
+https://fishingbooker.com/charters/view/9398
