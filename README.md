@@ -2,7 +2,8 @@
 - Jonas Green Park Fishing Pier
 - Mallows Bay Park
 - Smallwood state park
-- Mattawoman State Natural Environmental Are
+- Mattawoman State Natural Environmental Area
+- Indian Head, Mattawoman Creek
 
 # Charters
 https://fishingbooker.com/charters/view/8403
