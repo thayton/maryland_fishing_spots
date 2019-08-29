@@ -1,5 +1,6 @@
 # maryland_fishing_spots
 - Point Lookout State Park
+- Point Lookout Fishing Pier
 - Jonas Green Park Fishing Pier
 - Mallows Bay Park
 - Smallwood state park
