@@ -1,4 +1,5 @@
 # maryland_fishing_spots
+- (crabbing) Choptank
 - (crabbing) smith marine Sherwood Forest Crownsville exit off 97. 20 bucks a day
 - Point Lookout State Park
 - Point Lookout Fishing Pier
