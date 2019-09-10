@@ -1,4 +1,5 @@
 # maryland_fishing_spots
+- Decoursey Bridge
 - Thomas Point Park (Annapolis)
 - Myrtle Grove WMA canals
 - (crabbing) Choptank
