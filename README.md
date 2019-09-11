@@ -1,5 +1,7 @@
 # maryland_fishing_spots
-- [Wye River](https://en.wikipedia.org/wiki/Wye_River_(Maryland))
+- [Wye River](https://en.wikipedia.org/wiki/Wye_River_(Maryland)) 
+- [Schnaitman's Boat Rentals](http://schnaitmansboat.com/) 12498 Wye Landing LaneWye Mills, MD 21679
+- [Wye Island Natural Resources Management Area](http://dnr.maryland.gov/publiclands/Pages/eastern/WyeIsland/Fishing-Boating.aspx)
 - Decoursey Bridge
 - Thomas Point Park (Annapolis)
 - Myrtle Grove WMA canals
