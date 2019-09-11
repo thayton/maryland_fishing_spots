@@ -1,4 +1,5 @@
 # maryland_fishing_spots
+- [Wye River](https://en.wikipedia.org/wiki/Wye_River_(Maryland))
 - Decoursey Bridge
 - Thomas Point Park (Annapolis)
 - Myrtle Grove WMA canals
