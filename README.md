@@ -17,6 +17,9 @@
 - Mattawoman State Natural Environmental Area
 - Indian Head, Mattawoman Creek
 
+# Freshwater fishing
+- Liberty Reservoir
+
 # Bait & Tackle
 - Get live minows from Bowleys bait and tackle and fish them 2’ under a bobber at wilson point park
 
