@@ -18,7 +18,7 @@
 - Indian Head, Mattawoman Creek
 
 # Bait & Tackle
-- Bowleys bait and tackle
+- Get live minows from Bowleys bait and tackle and fish them 2’ under a bobber at wilson point park
 
 # Charters
 - https://fishingbooker.com/charters/view/8403
