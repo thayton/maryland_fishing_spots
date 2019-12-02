@@ -17,6 +17,9 @@
 - Mattawoman State Natural Environmental Area
 - Indian Head, Mattawoman Creek
 
+# Bait & Tackle
+- Bowleys bait and tackle
+
 # Charters
 - https://fishingbooker.com/charters/view/8403
 - https://fishingbooker.com/charters/view/9398
