@@ -18,7 +18,7 @@
 - Indian Head, Mattawoman Creek
 
 # Maps
-- http://gisapps.dnr.state.md.us/PublicFishingAccess/index.html?c=-77.940909%2c39.697372&z=14
+- [Public Angler Access](http://gisapps.dnr.state.md.us/PublicFishingAccess/index.html)
 - [White Perch Map](https://www.google.com/maps/d/viewer?hl=en_US&mid=1TPXJQjRC_pv2CrNBnWzGputBPDw&ll=38.945658400773304%2C-76.3754515&z=10)
 
 # Freshwater fishing
