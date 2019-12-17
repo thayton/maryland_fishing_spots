@@ -33,5 +33,6 @@
 - Get live minows from Bowleys bait and tackle and fish them 2’ under a bobber at wilson point park
 
 # Charters
+- [Potomac River Trophies](https://www.potomacrivertrophies.com/)
 - https://fishingbooker.com/charters/view/8403
 - https://fishingbooker.com/charters/view/9398
