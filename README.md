@@ -23,6 +23,7 @@
 - [White Perch Map](https://www.google.com/maps/d/viewer?hl=en_US&mid=1TPXJQjRC_pv2CrNBnWzGputBPDw&ll=38.945658400773304%2C-76.3754515&z=10)
 
 # Freshwater fishing
+- [Freshwater Hotspots](https://dnr.maryland.gov/fisheries/Pages/hotspots/index.aspx)
 - [Pine Like by Avalon](http://www.switchfisher.com/trout_content/montgomery/PineLake.html)
 - [Kentlands Ponds](https://www.gaithersburgmd.gov/recreation/parks-fields/kentlands-lakes)
 - Liberty Reservoir
