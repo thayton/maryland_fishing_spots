@@ -1,5 +1,5 @@
 # maryland_fishing_spots
-- [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx)
+- [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx) Stafford Road Bridge area
 - Susquehanna Flats (http://walleyepete.com/advice/susquehanna-flats-fishing-tutorial/)
 - Jonas Green Park Fishing Pier
 - Fort Smallwood Park for catfish
@@ -27,7 +27,7 @@
 - [White Perch Map](https://www.google.com/maps/d/viewer?hl=en_US&mid=1TPXJQjRC_pv2CrNBnWzGputBPDw&ll=38.945658400773304%2C-76.3754515&z=10)
 
 # Freshwater fishing
-- [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx)
+- [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx) Stafford Road Bridge area
 - [Licking Creek](https://switchfisher.com/trout_content/washington/LickingCreek.html) #trout
 - [Middle Creek, Frederick County](https://switchfisher.com/trout_content/frederick/MiddleCreek.html) #trout
 - [Patuxent Wetlands Park](https://www.aacounty.org/locations-and-directions/patuxent-wetlands-park)
