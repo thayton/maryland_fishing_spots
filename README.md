@@ -22,6 +22,8 @@
 - Mattawoman State Natural Environmental Area
 - Indian Head, Mattawoman Creek
 
+# Catfish
+- [Highway 331 Dover Draw Bridge](https://maps.google.com/?daddr=38.757662,%20-75.998177)
 # Maps
 - [Public Angler Access](http://gisapps.dnr.state.md.us/PublicFishingAccess/index.html)
 - [White Perch Map](https://www.google.com/maps/d/viewer?hl=en_US&mid=1TPXJQjRC_pv2CrNBnWzGputBPDw&ll=38.945658400773304%2C-76.3754515&z=10)
