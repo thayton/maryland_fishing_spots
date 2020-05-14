@@ -1,4 +1,5 @@
 # maryland_fishing_spots
+- Susquehanna Flats (http://walleyepete.com/advice/susquehanna-flats-fishing-tutorial/)
 - Jonas Green Park Fishing Pier
 - Fort Smallwood Park for catfish
 - [Magothy River](https://www.google.com/maps/place/Magothy+River/@39.0813495,-76.5150411,14z/data=!4m5!3m4!1s0x89b7f8ee07ab0dc3:0xfc6ad2823c1d2e13!8m2!3d39.0850384!4d-76.492931) For blue catfish
