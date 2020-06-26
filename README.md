@@ -21,6 +21,7 @@
 - Indian Head, Mattawoman Creek
 
 # Snakehead
+- Church creek near Blackwater - Off of route 16 - 38.499437, -76.156514 
 - Key Wallace Drive in Dorchester County
 - Dundee Creek - near Marshy Point Nature Center
 - Mattawoman Creek for bowfishing
