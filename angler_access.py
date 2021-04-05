@@ -31,11 +31,13 @@ class AnglerAccessScraper(object):
         }
 
     def csv_save(self, data, filename):
+        headers = [ 'name', 'county', 'website', 'latlng', 'maplink', 'parking', 'season open' ]
         with open(filename, 'w', newline='') as fp:
             writer = csv.writer(fp, quoting=csv.QUOTE_NONNUMERIC)
-
+            writer.writerow(headers)
+            
             for row in data:
-                writer.writerow(row)
+                writer.writerow([row.get(h) for h in headers])
         
     def scrape(self):
         locations = []
