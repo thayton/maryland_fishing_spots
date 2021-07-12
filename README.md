@@ -1,4 +1,18 @@
 # maryland_fishing_spots
+
+## Fishing Guides
+- https://www.dec.ny.gov/docs/fish_marine_pdf/gsfishing2.pdf
+- https://fishandhuntmaryland.com/articles/seasonal-white-perch-patterns
+
+## Chesapeake Rivers (Western Side)
+- [Magothy River](https://www.aacounty.org/locations-and-directions/beachwood-park)
+- [Severn](https://www.aacounty.org/locations-and-directions/jonas-and-anne-catharine-green-park)
+- [South](https://www.aacounty.org/departments/recreation-parks/parks/mayo-beach/cartop-boat-launch/)
+- 
+## Chesapeak Rivers & Bays (Eastern Side)
+- [Mallows Bay](https://dnr.maryland.gov/ccs/Pages/mallowsbay.aspx)
+- [Shipping Creek](https://www.parksnrec.org/wp-content/uploads/2016/02/Directions-to-QAC-Public-Landings.pdf)
+
 - [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx) Stafford Road Bridge area
 - Susquehanna Flats (http://walleyepete.com/advice/susquehanna-flats-fishing-tutorial/)
 - Jonas Green Park Fishing Pier
