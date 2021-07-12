@@ -8,7 +8,7 @@
 - [Magothy River](https://www.aacounty.org/locations-and-directions/beachwood-park)
 - [Severn](https://www.aacounty.org/locations-and-directions/jonas-and-anne-catharine-green-park)
 - [South](https://www.aacounty.org/departments/recreation-parks/parks/mayo-beach/cartop-boat-launch/)
-- 
+
 ## Chesapeak Rivers & Bays (Eastern Side)
 - [Mallows Bay](https://dnr.maryland.gov/ccs/Pages/mallowsbay.aspx)
 - [Shipping Creek](https://www.parksnrec.org/wp-content/uploads/2016/02/Directions-to-QAC-Public-Landings.pdf)
