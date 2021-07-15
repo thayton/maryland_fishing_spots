@@ -12,6 +12,9 @@
 ## Chesapeak Rivers & Bays (Eastern Side)
 - [Mallows Bay](https://dnr.maryland.gov/ccs/Pages/mallowsbay.aspx)
 - [Shipping Creek](https://www.parksnrec.org/wp-content/uploads/2016/02/Directions-to-QAC-Public-Landings.pdf)
+- [Martinak State Park Boat ramp](https://dnr.maryland.gov/publiclands/Pages/eastern/Martinak/Fishing-Boating.aspx)
+- [Wye Islane NRMA](https://dnr.maryland.gov/publiclands/Pages/eastern/WyeIsland/Fishing-Boating.aspx)
+
 
 - [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx) Stafford Road Bridge area
 - Susquehanna Flats (http://walleyepete.com/advice/susquehanna-flats-fishing-tutorial/)
