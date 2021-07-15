@@ -5,6 +5,7 @@
 - https://fishandhuntmaryland.com/articles/seasonal-white-perch-patterns
 
 ## Chesapeake Rivers (Western Side)
+- [AA County Cartop boat launches](https://www.aacounty.org/services-and-programs/cartop-boat-launch)
 - [Magothy River](https://www.aacounty.org/locations-and-directions/beachwood-park)
 - [Severn](https://www.aacounty.org/locations-and-directions/jonas-and-anne-catharine-green-park)
 - [South](https://www.aacounty.org/departments/recreation-parks/parks/mayo-beach/cartop-boat-launch/)
