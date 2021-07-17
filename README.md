@@ -16,6 +16,7 @@
 - [Shipping Creek](https://www.parksnrec.org/wp-content/uploads/2016/02/Directions-to-QAC-Public-Landings.pdf)
 - [Martinak State Park Boat ramp](https://dnr.maryland.gov/publiclands/Pages/eastern/Martinak/Fishing-Boating.aspx)
 - [Wye Islane NRMA](https://dnr.maryland.gov/publiclands/Pages/eastern/WyeIsland/Fishing-Boating.aspx)
+- [Taylors Island WMA](https://dnr.maryland.gov/wildlife/Pages/publiclands/eastern/taylorsisland.aspx)
 
 
 - [Deer Creek](https://dnr.maryland.gov/fisheries/Pages/hotspots/deer.aspx) Stafford Road Bridge area
